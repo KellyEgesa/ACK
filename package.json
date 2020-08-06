@@ -2,7 +2,7 @@
   "name": "ack_stpeters",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ackstpetersbooking.me",
+  "homepage": "http://ackstpetersbooking.me./",
   "dependencies": {
     "@sentry/react": "^5.20.1",
     "@testing-library/jest-dom": "^4.2.4",
